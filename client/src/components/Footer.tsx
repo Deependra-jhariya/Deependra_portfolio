@@ -22,7 +22,7 @@ const Footer = () => {
               </a>
             </Link>
             <p className="mt-2 text-gray-400 text-sm">
-              React Native Developer with 2.9 years of experience
+              React Native Developer with 2.5+ years of experience
             </p>
           </div>
           
