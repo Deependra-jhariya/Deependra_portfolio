@@ -126,7 +126,7 @@ var vite_config_default = defineConfig({
   //     : []),
   // ],
   plugins: [react()],
-  base: "./",
+  base: "/Deependra_portfolio/",
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),
