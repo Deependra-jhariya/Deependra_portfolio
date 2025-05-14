@@ -17,7 +17,7 @@ export default defineConfig({
   //     : []),
   // ],
   plugins: [react()],
-  base: "/Deependra_portfolio/",
+  base: "/",
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),
